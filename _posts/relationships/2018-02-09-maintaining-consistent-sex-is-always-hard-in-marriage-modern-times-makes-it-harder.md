@@ -12,11 +12,8 @@ publisher: Fatherly
 stats: paragraph=30 sentences=55, words=968
 ads: true
 share: true
-toc: true
 comments: true
 ---
-# How to Keep a Marriage Sexy-ish
-
 ## Some advice from a sex therapist who's helped couples for more than two decades.
 
 In theory, the [sex](https://www.fatherly.com/love-money/sex/why-more-parents-need-to-embrace-the-quickie/) lives of modern couples should be a nonstop pleasure paradise. Attitudes about sex and sexuality have relaxed around the world and the Internet has made every kind of [stimulation](https://www.fatherly.com/love-money/sex/why-should-not-feel-weird-about-sex-toy-use/) available and deliverable right to your screen or doorstep.
