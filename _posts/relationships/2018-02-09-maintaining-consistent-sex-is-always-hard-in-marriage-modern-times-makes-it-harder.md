@@ -15,23 +15,9 @@ share: true
 toc: true
 comments: true
 ---
-[Love & Money](https://www.fatherly.com/love-money/)/ [Relationships](https://www.fatherly.com/love-money/relationships/)
-
 # How to Keep a Marriage Sexy-ish
 
 ## Some advice from a sex therapist who's helped couples for more than two decades.
-
-By
-[Jeremy Brown](https://www.fatherly.com/community/jeremy-brown/ "Posts by Jeremy Brown")
-
-Feb 07 2018, 11:06 AM
-[Share](https://www.facebook.com/sharer/sharer.php?u=https://www.fatherly.com/love-money/maintaining-consistent-sex-is-always-hard-in-marriage-modern-times-makes-it-harder/?utm_source=facebook&utm_medium=onsiteshare)
-
-Recommended Video
-
-Loading Video Content
-
-ADVERTISEMENT
 
 In theory, the [sex](https://www.fatherly.com/love-money/sex/why-more-parents-need-to-embrace-the-quickie/) lives of modern couples should be a nonstop pleasure paradise. Attitudes about sex and sexuality have relaxed around the world and the Internet has made every kind of [stimulation](https://www.fatherly.com/love-money/sex/why-should-not-feel-weird-about-sex-toy-use/) available and deliverable right to your screen or doorstep.
 
@@ -72,9 +58,6 @@ That psychological arousal comes from seeking greater depth, and a sense of mind
 The key to [great sex,](https://www.fatherly.com/love-money/sex/how-to-have-actually-great-shower-sex/) according to Snyder is, as he puts it, getting excited together on a regular basis, even if that excitement isn't a prelude to sex right then. Simple touches, caresses or kisses can keep the sexual energy flowing and build anticipation for the time when that energy can finally be released. "You want to be like two high school students making out in the school hallway between classes," Snyder says. "When the bell rings, you each go off to class feeling erotically buzzed."
 [Share](https://www.facebook.com/sharer/sharer.php?u=https://www.fatherly.com/love-money/maintaining-consistent-sex-is-always-hard-in-marriage-modern-times-makes-it-harder/?utm_source=facebook&utm_medium=onsiteshare)
 
-Sign up for the
-[Jeremy Brown](https://www.fatherly.com/community/jeremy-brown/)
+writes for Fatherly by
+[Jeremy Brown](https://www.fatherly.com/community/jeremy-brown/ "Posts by Jeremy Brown")
 
-writes for Fatherly.
-
-[long lasting marriage](https://www.fatherly.com/tag/long-lasting-marriage/) [love](https://www.fatherly.com/tag/love/) [love advice](https://www.fatherly.com/tag/love-advice/) [Marriage](https://www.fatherly.com/tag/marriage/) [marriage advice](https://www.fatherly.com/tag/marriage-advice/) [sex](https://www.fatherly.com/tag/sex/) [strong marriage](https://www.fatherly.com/tag/strong-marriage/)
