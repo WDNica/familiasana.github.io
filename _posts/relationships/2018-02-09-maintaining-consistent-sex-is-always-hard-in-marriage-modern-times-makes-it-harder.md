@@ -6,12 +6,15 @@ excerpt: "How to Keep a Marriage Sexy-ish"
 link: https://www.fatherly.com/love-money/maintaining-consistent-sex-is-always-hard-in-marriage-modern-times-makes-it-harder/
 description: Some advice from a sex therapist who's helped couples for more than two decades.
 keywords: long lasting marriage,love,love advice,Marriage,marriage advice,sex,strong marriage
-author: Jeremy Brown
+author:
+    name: "Jeremy Brown"
+    web: https://www.fatherly.com/community/jeremy-brown/
 date: 2018-02-07T16:06:26.000Z
 publisher: Fatherly
 stats: paragraph=30 sentences=55, words=968
 ads: true
 share: true
+toc: true
 comments: true
 ---
 ## Some advice from a sex therapist who's helped couples for more than two decades.
@@ -53,8 +56,4 @@ That psychological arousal comes from seeking greater depth, and a sense of mind
 "[Mindfulness](https://www.fatherly.com/health-science/ellen-langer-mindfulness-parents-family-focus-kids/) isn't something esoteric," Snyder says. "You don't have to sit cross-legged, or eat vegan. It just means taking time to experience the moment, before you get started with lovemaking. And keeping that sense of the moment, all the way through to dessert."
 
 The key to [great sex,](https://www.fatherly.com/love-money/sex/how-to-have-actually-great-shower-sex/) according to Snyder is, as he puts it, getting excited together on a regular basis, even if that excitement isn't a prelude to sex right then. Simple touches, caresses or kisses can keep the sexual energy flowing and build anticipation for the time when that energy can finally be released. "You want to be like two high school students making out in the school hallway between classes," Snyder says. "When the bell rings, you each go off to class feeling erotically buzzed."
-[Share](https://www.facebook.com/sharer/sharer.php?u=https://www.fatherly.com/love-money/maintaining-consistent-sex-is-always-hard-in-marriage-modern-times-makes-it-harder/?utm_source=facebook&utm_medium=onsiteshare)
-
-writes for Fatherly by
-[Jeremy Brown](https://www.fatherly.com/community/jeremy-brown/ "Posts by Jeremy Brown")
 
