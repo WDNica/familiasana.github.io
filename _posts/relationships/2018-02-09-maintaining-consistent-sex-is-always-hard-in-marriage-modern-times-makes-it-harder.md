@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title: "How to Keep a Marriage Sexy-ish"
 categories: relationships
 excerpt: "How to Keep a Marriage Sexy-ish"

@@ -1,30 +1,24 @@
 ---
-link: https://www.fatherly.com/love-money/how-i-learned-to-embrace-our-messy-household/
-title: Go Ahead and Embrace the Mess
+layout: media
+title: "Go Ahead and Embrace the Mess"
+categories: relationships
+excerpt: "Go Ahead and Embrace the Mess"
 description: For a long time, my wife and I worked tirelessly to keep our house spotless. Then, we calmed down and realized the mess of a home is merely proof of life.
 keywords: family,Homes,love,Marriage
-author: Geoffrey Redick
+author:
+    name: Geoffrey Redick
+    web: https://www.fatherly.com/love-money/how-i-learned-to-embrace-our-messy-household/
 date: 2018-02-08T00:05:49.000Z
 publisher: Fatherly
-stats: paragraph=37 sentences=111, words=1510
+stats: paragraph=30 sentences=55, words=968
+ads: true
+share: true
+toc: true
+comments: true
 ---
-[Love & Money](https://www.fatherly.com/love-money/)
-
 # How I Learned to Stop Worrying and Embrace Our Messy Household
 
 ## For a long time, my wife and I worked tirelessly to keep our house spotless. Then, we calmed down and realized the mess of a home is merely proof of life.
-
-By
-[Geoffrey Redick](https://www.fatherly.com/community/geoffrey-redick/ "Posts by Geoffrey Redick")
-
-Feb 07 2018, 7:05 PM
-[Share](https://www.facebook.com/sharer/sharer.php?u=https://www.fatherly.com/love-money/how-i-learned-to-embrace-our-messy-household/?utm_source=facebook&utm_medium=onsiteshare)
-
-Recommended Video
-
-Loading Video Content
-
-ADVERTISEMENT
 
 A few weeks after our first child was born, a nurse came over to the house. Newly terrified about our parental responsibility, my wife and I had finally decided to buy [life insurance](https://www.fatherly.com/love-money/finances/a-new-parents-guide-to-life-insurance/). The nurse was there to draw blood and make sure we didn't have malaria or high cholesterol.
 
@@ -75,12 +69,3 @@ I see that now, and I accept it. The trick is to find the balance between "caref
 My wife has come a long way since she murdered that nurse. We've got family coming to visit, and I've been stressing out about finding the time to clean the house. I also have to find time to drive the kids to practices and rehearsals, time to take the cat to the vet again, time to work. Even a few years ago, my wife would have gone all Tasmanian Devil with me, chucking the paper-and-tape artwork into the trash, boxing up half the toys, scrubbing the grout with a toothbrush, vacuuming the cats. Not anymore. "Who cares if the house is dirty?" she said to me last night. "It's just my sister."
 
 The kids beat us. We lost. Turns out we are just like our parents. Hope you don't mind the mess.
-
-[Share](https://www.facebook.com/sharer/sharer.php?u=https://www.fatherly.com/love-money/how-i-learned-to-embrace-our-messy-household/?utm_source=facebook&utm_medium=onsiteshare)
-
-Sign up for the
-[Geoffrey Redick](https://www.fatherly.com/community/geoffrey-redick/)
-
-writes for Fatherly.
-
-[family](https://www.fatherly.com/tag/family/) [Homes](https://www.fatherly.com/tag/homes/) [love](https://www.fatherly.com/tag/love/) [Marriage](https://www.fatherly.com/tag/marriage/)
