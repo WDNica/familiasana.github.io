@@ -31,11 +31,10 @@ owner:
   twitter: familyhealthy
 #  bio: "Just another boring, tattooed, time traveling designer."
 #  avatar: bio-photo.jpg # 160x160 px image for author byline
- google:
-   #plus: +WDNicaWebDesignNica
-   ad-client: ca-pub-2974536034521527
-   #ad-slot: 
-   #verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+  # google:
+  #   plus: +WDNicaWebDesignNica
+  #   ad-client: ca-pub-2974536034521527
+  #   ad-slot: 2949192090
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
