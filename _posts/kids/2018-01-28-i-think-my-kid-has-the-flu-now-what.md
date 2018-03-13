@@ -1,14 +1,21 @@
 ---
+layout: media
 link: http://redtri.com/i-think-my-kid-has-the-flu-now-what/
-title: I Think My Kid Has the Flu—Now What?
+title: "I Think My Kid Has the Flu—Now What?"
+categories: kids
+excerpt: 2018 is shaping up to be one of the worst flu seasons in over a decade—and here's what parents need to know.
 description: 2018 is shaping up to be one of the worst flu seasons in over a decade—and here's what parents need to know.
 keywords: Kindergarten Help,Mom Hacks,News,Parenting,Preschool Help,spoke contributor network,Toddler Help,natl-feed,spoke
-author: null
-date: 2018-01-28T14:51:39.000Z
-publisher: Red Tricycle
-stats: paragraph=35 sentences=50, words=833
+author:
+    name: null
+    web: null
+date: 2018-01-28T00:05:49.000Z
+publisher: null
+ads: true
+share: true
+toc: true
+comments: true
 ---
-![](https://redtricom.files.wordpress.com/2018/01/000003709-l3k8vgonmvmyjxjtcpr.jpg?w=600&h=450)
 With 30 pediatric deaths associated with the flu and a rising numbers of cases, this is one of the worst flu seasons in over a decade. Although [getting your child a flu shot](http://redtri.com/5-things-every-parent-should-know-before-your-child-gets-a-flu-shot/) is the best way to protect your child against influenza, it is not 100 percent effective.
 
 We have received tons of emails from parents over the past month with questions about what to do if their child starts to show symptoms of the flu. Here, we tackle the most common questions about treating the flu.
@@ -68,13 +75,3 @@ Teach your children to cover their mouth or nose they sneeze or cough using a ti
 Clean and disinfect frequently touched surfaces. Regularly clean down all surfaces, especially door knobs and sinks, with an anti-viral cleaning product.
 
 Make sure to avoid sharing cups and utensils. Drink plenty of fluids and eat nutritious foods.
-
-**RELATED STORIES:**
-
-[**Here's What Parents Need to Know About This Year's Dangerous Flu Strain**;](http://redtri.com/what-to-know-about-this-years-dangerous-flu-strain/)
-
-[**A Massive Flu Outbreak Just Closed an Entire Texas School *District***](http://redtri.com/massive-flu-outbreak-closes-entire-school-district/)
-
-[**5 Things Every Parent Should Know Before Your Child Gets a Flu Shot**](http://redtri.com/5-things-every-parent-should-know-before-your-child-gets-a-flu-shot/)
-
-_Featured Photo Courtesy:[dagon_/Pixabay](https://pixabay.com/en/baby-girl-sleep-child-toddler-1151351/)_

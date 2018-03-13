@@ -1,30 +1,27 @@
 ---
+layout: media
+title: "5 Facts Every Man Should Know About Vasectomies"
+categories: fathers
+excerpt: "There's smoke, but not fire."
 link: https://www.fatherly.com/health-science/the-science-of-how-vasectomies-work/
-title: 5 Facts Every Man Should Know About Vasectomies
 description: There's smoke, but not fire.
 keywords: conception,health and science,vasectomy
-author: Lauren Vinopal
+ads: true
+share: true
+toc: true
+comments: true
+tags: conception,health and science,vasectomy
 date: 2018-02-06T14:40:52.000Z
+author:
+    name: "Lauren Vinopal"
+    web: https://www.fatherly.com/community/lauren_vinopal/
 publisher: Fatherly
-stats: paragraph=25 sentences=34, words=719
 ---
-[Health & Science](https://www.fatherly.com/health-science/)/ [Conception](https://www.fatherly.com/health-science/conception/)
-
 # What Fathers Need to Know About Vasectomies
 
 ## Dogs originally helped invent what would eventually become one of the safest and most effective forms of birth control.
 
-By
-[Lauren Vinopal](https://www.fatherly.com/community/lauren_vinopal/ "Posts by Lauren Vinopal")
-
 Feb 06 2018, 9:40 AM
-[Share](https://www.facebook.com/sharer/sharer.php?u=https://www.fatherly.com/health-science/the-science-of-how-vasectomies-work/?utm_source=facebook&utm_medium=onsiteshare)
-
-Recommended Video
-
-Loading Video Content
-
-ADVERTISEMENT
 
 The first [vasectomy](https://www.fatherly.com/health-science/nfl-antonio-cromartie-vasectomy-kids/) was performed on a dog in 1823, when British nobleman Sir Ashley Cooper tied the artery and vein in one of its testicles together and observed no adverse effects (meanwhile, everyone _else_ observed that Cooper was the creepiest dog owner of the 19th century). It wasn't until World War II that the [surgical process](https://www.fatherly.com/health-science/the-most-important-facts-to-know-before-getting-a-vasectomy/) of cutting, cauterizing, and blocking the vas deferens (the duct that transfers sperm from the testicles to the urethra) went mainstream for US men.
 
@@ -51,12 +48,3 @@ Once each vas is double-sealed and tied off, the incisions are sealed up with sk
 **From There, Nothing Really Changes. And That's the Point**
 
 Vasectomies do not impact the production of sperm or the male hormone testosterone and, as a result, do not alter men's libido in any way. Instead of building up sperm and being sentenced to blue balls for the rest of your life, the sperm is simply reabsorbed into the body, Akhavein says. In other words, the only thing that changes about your sexual experience is the baby that shows up afterwards. And if that's part of your family's plan, well, then thank you for smoking.
-
-[Share](https://www.facebook.com/sharer/sharer.php?u=https://www.fatherly.com/health-science/the-science-of-how-vasectomies-work/?utm_source=facebook&utm_medium=onsiteshare)
-
-Sign up for the
-[Lauren Vinopal](https://www.fatherly.com/community/lauren_vinopal/)
-
-writes for Fatherly.
-
-[conception](https://www.fatherly.com/tag/conception/) [health and science](https://www.fatherly.com/tag/health-and-science/) [vasectomy](https://www.fatherly.com/tag/vasectomy/)

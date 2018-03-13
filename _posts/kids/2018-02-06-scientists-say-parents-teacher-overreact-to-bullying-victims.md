@@ -1,30 +1,29 @@
 ---
+layout: media
 link: https://www.fatherly.com/health-science/scientists-say-parents-teacher-overreact-to-bullying-victims/
-title: Can We Calm Down About Bullying?
-description: "We should not convey the idea that having arguments, falling out, having enemies, hurting someone's feelings, having your feelings hurt, is unacceptable. It's life.”
-keywords: null
-author: Joshua A. Krisch
+title: "Can We Calm Down About Bullying?"
+description: We should not convey the idea that having arguments, falling out, having enemies, hurting someone's feelings, having your feelings hurt, is unacceptable. It is life.
+categories: kids
+excerpt: We should not convey the idea that having arguments, falling out, having enemies, hurting someone's feelings, having your feelings hurt, is unacceptable. It is life.
+keywords: bullying
+author:
+    name: Joshua A. Krisch
+    web: https://www.fatherly.com/community/joshua-a-krisch/
 date: 2018-02-06T23:32:39.000Z
+publisher: null
+ads: true
+share: true
+toc: true
+comments: true
+keywords: null
 publisher: Fatherly
 stats: paragraph=19 sentences=36, words=754
 ---
-[Health & Science](https://www.fatherly.com/health-science/)/ [Behavior](https://www.fatherly.com/health-science/behavior/)
-
 # Scientists Say Parents and Teachers Overreact to Bullying
 
 ## "We should not convey the idea that having arguments, falling out, having enemies, hurting someone's feelings, having your feelings hurt, is unacceptable. It's life."
 
-By
-[Joshua A. Krisch](https://www.fatherly.com/community/joshua-a-krisch/ "Posts by Joshua A. Krisch")
-
 Feb 06 2018, 6:32 PM
-[Share](https://www.facebook.com/sharer/sharer.php?u=https://www.fatherly.com/health-science/scientists-say-parents-teacher-overreact-to-bullying-victims/?utm_source=facebook&utm_medium=onsiteshare)
-
-Recommended Video
-
-Loading Video Content
-
-ADVERTISEMENT
 
 Anti-bullying campaigns tout big numbers. And here's the biggest of the bunch: One in five children [now report being bullied at school ;](https://www.fatherly.com/health-science/bullying-young-kids/). But when these campaigns describe what constitutes "[bullying](https://www.fatherly.com/parenting/discipline-and-behavior/how-im-going-to-talk-to-my-kids-about-bullying/)," a fuzzier picture emerges. The National Center For Educational Statistics, for instance, reports that 85 percent of bullying victims report being called names, insulted, gossiped about, or excluded. So are modern kids subject to real [bullying in record numbers](https://www.fatherly.com/news/victims-of-bullying-suicide-kids/)or is bad schoolyard behavior just being more aggressively tracked than ever before?Is every mean kid now a bully and is everyone with hurt feelings now a victim?
 
@@ -43,10 +42,3 @@ Most bullying research relies on self-reporting via questionnaires and on correl
 That's not to say bullying isn't ever a problem or that teachers and parents who step in are always making the wrong call. It's reasonable for schools to adopt a zero-tolerance policy when it comes to physical violence, Guldberg says, and parents should impress upon their kids that they need to control their anger and always keep their hands to themselves. There's also nothing wrong with keeping an eye out for the sort of behavior that tends to escalate into tragedy — regularly abusive conversations or texts, sustained efforts by a group of kids to pick on one particular child, or other abnormal behaviors. Perhaps some deaths could have been prevented, had parents and teachers flagged abusive behaviors when they went beyond the pale of normal schoolyard drama.
 
 "But we should not convey the idea that having arguments, falling out, having enemies, hurting someone's feelings, having your feelings hurt, is unacceptable," Guldberg says."It's life."
-[Share](https://www.facebook.com/sharer/sharer.php?u=https://www.fatherly.com/health-science/scientists-say-parents-teacher-overreact-to-bullying-victims/?utm_source=facebook&utm_medium=onsiteshare)
-
-Sign up for the
-[Joshua A. Krisch](https://www.fatherly.com/community/joshua-a-krisch/)
-
-writes for Fatherly.
-
