@@ -25,9 +25,13 @@
   excerpt: "Kids"
   #image: 400x250.jpg
 
-- title: Money
-  url: /money/
-  excerpt: "Money"
+- title: Finance
+  url: /Finance/
+  excerpt: "Finance"
+
+- title: Education
+  url: /Education/
+  excerpt: "Education"
 
 - title: Suscribe
   url: https://tinyletter.com/lifenbiz

@@ -1,15 +1,6 @@
 # Footer navigation links
 
-- title: Inicio
-  url: /
-
-- title: Familia
-  url: /familia/
-
-- title: Hijos
-  url: /hijos/
-
-- title: Porque?
+- title: About?
   url: /about/
 
 - title: Terms

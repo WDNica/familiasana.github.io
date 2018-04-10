@@ -3,7 +3,7 @@ layout: home
 permalink: /
 image:
   feature: wood-texture-1600x800.jpg
-tags: [famila, hijos, padres, ninos, niños, ninas, niñas, adolecentes, infantil, cuidado, educación, educacion, salud, cuidado infantil, aprendizaje, cuidado materno, matenidad, escuela, tareas, dinero, finanzas, hogar, administrar, casa, bebe, bebé, vida, cuidado del hogar, aprendizaje, moda, cuidado personal, ejercicio, tareas, escolar, enfermedad, enfermedades]
+tags: [family, children, parents, children, children, girls, adolescents, child, care, education, education, health, child care, learning, maternal care, matenality, school, homework, money, finances, home, manage, house, baby, baby, life, home care, learning, fashion, personal care, exercise, homework, school, illness, diseases]
 author: admin
 ---
 <!-- {% assign category_name = "life" %}
@@ -23,7 +23,7 @@ bottom: 0.3em;
 </style>
  <h3>Latest</h3>
 <ul>
-{% for post in site.posts limit:20 %}
+{% for post in site.posts limit:30 %}
 <li>
 {% if post.date %}
 <span>{{ post.date | date: "%B %d, %Y" }}</span> &raquo;
