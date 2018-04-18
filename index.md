@@ -33,3 +33,5 @@ bottom: 0.3em;
 </li>
 {% endfor %}
 </ul>
+
+  {% include post-grid.html %}

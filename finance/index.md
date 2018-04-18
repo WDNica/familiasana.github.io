@@ -9,6 +9,6 @@ tags: [finance, family-economy, money]
 
 <div class="tiles">
 {% for post in site.categories.finance %}
-  {% include post-list.html %}
+  {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

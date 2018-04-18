@@ -9,6 +9,6 @@ tags: [relationships]
 
 <div class="tiles">
 {% for post in site.categories.relationships %}
-  {% include post-list.html %}
+  {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

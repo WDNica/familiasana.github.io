@@ -9,6 +9,6 @@ tags: [family-health, health]
 
 <div class="tiles">
 {% for post in site.categories.health %}
-  {% include post-list.html %}
+  {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

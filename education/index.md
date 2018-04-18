@@ -9,6 +9,6 @@ tags: [education]
 
 <div class="tiles">
 {% for post in site.categories.education %}
-  {% include post-list.html %}
+  {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

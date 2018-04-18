@@ -9,6 +9,6 @@ tags: [kids]
 
 <div class="tiles">
 {% for post in site.categories.kids %}
-  {% include post-list.html %}
+  {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

@@ -16,9 +16,9 @@ share: true
 toc: true
 comments: true
 ---
-## How I Learned to Stop Worrying and Embrace Our Messy Household
+### How I Learned to Stop Worrying and Embrace Our Messy Household
 
-## For a long time, my wife and I worked tirelessly to keep our house spotless. Then, we calmed down and realized the mess of a home is merely proof of life.
+For a long time, my wife and I worked tirelessly to keep our house spotless. Then, we calmed down and realized the mess of a home is merely proof of life.
 
 A few weeks after our first child was born, a nurse came over to the house. Newly terrified about our parental responsibility, my wife and I had finally decided to buy [life insurance](https://www.fatherly.com/love-money/finances/a-new-parents-guide-to-life-insurance/). The nurse was there to draw blood and make sure we didn't have malaria or high cholesterol.
 
