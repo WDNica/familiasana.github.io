@@ -17,8 +17,6 @@ date: 2018-03-22T17:15:09.349Z
 publisher: Medium
 stats: paragraph=46 sentences=101, words=1835
 ---
-# 5 Common Mental Errors That Sway You From Making Good Decisions
-
 I like to think of myself as a rational person, but I'm not one. The good news is it's not just me — or you. We are all irrational.
 
 For a long time, researchers and economists believed that humans made logical, well-considered decisions. In recent decades, however, researchers have uncovered a wide range of mental errors that derail our thinking. Sometimes we make logical decisions, but there are many times when we make emotional, irrational, and confusing choices.

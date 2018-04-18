@@ -17,7 +17,7 @@ author:
     web: https://www.fatherly.com/community/lauren_vinopal/
 publisher: Fatherly
 ---
-# What Fathers Need to Know About Vasectomies
+## What Fathers Need to Know About Vasectomies
 
 ## Dogs originally helped invent what would eventually become one of the safest and most effective forms of birth control.
 
