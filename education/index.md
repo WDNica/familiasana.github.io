@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Relationships"
+title: "Education"
 date: 2014-11-16T11:40:45-04:00
 ads: true
-tags: [relationships]
+tags: [education]
 ---
 
 
 <div class="tiles">
-{% for post in site.categories.relationships %}
+{% for post in site.categories.education %}
   {% include post-list.html %}
 {% endfor %}
 </div><!-- /.tiles -->
