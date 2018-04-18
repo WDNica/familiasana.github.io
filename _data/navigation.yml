@@ -17,21 +17,25 @@
 
 - title: Family
   url: /family/
-  excerpt: "Family"
+  excerpt: "We must take care of our family"
   #image: 400x250.jpg
 
 - title: Kids
   url: /kids/
-  excerpt: "Kids"
+  excerpt: "When in doubt choos the kids, there will be plenty of time later to choose work"
   #image: 400x250.jpg
+
+- title: Relationships
+  url: /relationships/
+  excerpt: "Family is about relationships"
 
 - title: Finance
   url: /Finance/
-  excerpt: "Finance"
+  excerpt: "Dont be a Dummy, save you money!"
 
 - title: Education
   url: /Education/
-  excerpt: "Education"
+  excerpt: "A truly good education is rooted in good family upbringing and parental love and guidance"
 
 - title: Suscribe
   url: https://tinyletter.com/lifenbiz
