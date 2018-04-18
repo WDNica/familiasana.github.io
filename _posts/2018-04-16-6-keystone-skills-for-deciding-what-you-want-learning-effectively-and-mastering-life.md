@@ -1,4 +1,5 @@
 ---
+layout: media
 link: https://medium.com/thrive-global/6-keystone-skills-for-deciding-what-you-want-learning-effectively-and-mastering-life-ca97d4f7cfd0
 title: "Do You Have These 6 ‘Mindful’ Skills? Or Are You Distracted?"
 excerpt: "Do You Have These 6 ‘Mindful’ Skills? Or Are You Distracted?"

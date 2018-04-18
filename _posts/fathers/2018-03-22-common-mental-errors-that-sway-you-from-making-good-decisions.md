@@ -1,20 +1,20 @@
 ---
 layout: media
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,Homes,love,Marriage
+categories: relationships
 link: https://medium.com/personal-growth/5-common-mental-errors-that-sway-you-from-making-good-decisions-54cf2fc11520
 title: "5 Common Mental Errors That Sway You From Making Good Decisions"
-categories: relationships
 excerpt: "5 Common Mental Errors That Sway You From Making Good Decisions"
 description: I like to think of myself as a rational person, but I’m not one. The good news is it’s not just me — or you. We are all irrational.
-keywords: family,Homes,love,Marriage
 author:
     name: James Clear
     web: 
 date: 2018-03-22T17:15:09.349Z
 publisher: Medium
-ads: true
-share: true
-toc: true
-comments: true
 stats: paragraph=46 sentences=101, words=1835
 ---
 # 5 Common Mental Errors That Sway You From Making Good Decisions
