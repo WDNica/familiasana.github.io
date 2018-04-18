@@ -1,7 +1,7 @@
 ---
 layout: media
 title: "Go Ahead and Embrace the Mess"
-categories: relationships
+categories: family, relationships
 excerpt: "Go Ahead and Embrace the Mess"
 description: For a long time, my wife and I worked tirelessly to keep our house spotless. Then, we calmed down and realized the mess of a home is merely proof of life.
 keywords: family,Homes,love,Marriage

@@ -5,7 +5,7 @@ share: true
 toc: true
 comments: true
 keywords: family,Homes,love,Marriage
-categories: relationships
+categories: relationships, family
 link: https://medium.com/personal-growth/5-common-mental-errors-that-sway-you-from-making-good-decisions-54cf2fc11520
 title: "5 Common Mental Errors That Sway You From Making Good Decisions"
 excerpt: "5 Common Mental Errors That Sway You From Making Good Decisions"

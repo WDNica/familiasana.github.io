@@ -1,7 +1,7 @@
 ---
 layout: media
 title: "5 Facts Every Man Should Know About Vasectomies"
-categories: fathers
+categories: relationships, family
 excerpt: "There's smoke, but not fire."
 link: https://www.fatherly.com/health-science/the-science-of-how-vasectomies-work/
 description: There's smoke, but not fire.

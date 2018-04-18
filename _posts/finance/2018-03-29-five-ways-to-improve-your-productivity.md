@@ -1,10 +1,20 @@
 ---
+layout: media
+ads: true
+share: true
+toc: true
+comments: true
+keywords: finance, money, good-habits, productivity
+categories: finance
+
 link: https://www.investmentexecutive.com/building-your-business/practice-management/five-ways-to-improve-your-productivity/
-title: Five ways to improve your productivity | Investment Executive
+title: "Five ways to improve your productivity | Investment Executive"
+excerpt: "Five ways to improve your productivity | Investment Executive"
 description: Manage your energy to get the most out of your day
-keywords: productivity
-author: Wendy Cuthbert
-date: 2014-09-29T15:25:00.000Z
+author: 
+    name: Wendy Cuthbert
+    web:
+date: 2018-03-29T15:25:00.000Z
 publisher: Investment Executive
 stats: paragraph=13 sentences=23, words=410
 ---

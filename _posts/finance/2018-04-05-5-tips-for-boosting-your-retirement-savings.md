@@ -1,9 +1,16 @@
 ---
+layout: media
+ads: true
+share: true
+toc: true
+comments: true
+keywords: finance, money, good-habits, productivity
+categories: finance
 link: https://www.daytondailynews.com/business/tips-for-boosting-your-retirement-savings/nB88f8YW6BBkxmNnQ7pBQM/
 title: 5 tips for boosting your retirement savings
 description: There are some easy ways to save more for retirement.
-keywords: null
-author: Kara Driscoll Staff Writer 7:35 A.m. Thursday, April 5, 2018 Business
+author: 
+    name: Kara Driscoll
 date: 2018-04-05T13:35:00.000Z
 publisher: daytondailynews
 stats: paragraph=23 sentences=33, words=479
@@ -41,15 +48,3 @@ Determine how much you need to save, the rate of return you need on investments 
 Life can get in the way of saving. "There are other reasons why people haven't saved. Divorce, staying home to raise kids, job transitions, but usually, it's just spending more than they make. Future generations may be hampered by their student loans. Borrowing money for the college experience, leads some people to start off their working careers in debt," he said.
 
 Figure out what your essential expenses are, and cut out the lifestyle expenses if need be. "It's about having a productive relationship with your money and realizing that you can't spend more than you make," he said.
-
-**FIVE FAST BUSINESS READS**
-
-• [No retail apocalypse for these companies: 5 retailers opening stores in 2018](https://www.daytondailynews.com/business/retail-apocalypse-for-these-companies-retailers-opening-stores-2018/v2MSS0N51DTV7xmvqFLRqL/new.html)
-
-• [Franco's Ristorante Italiano owner dies](http://www.daytondailynews.com/business/franco-ristorante-italiano-owner-dies/pRnbmTc1PCdKQapdC3w8aN/)
-
-• [Former DP&L power plants to lay off 370 workers in Ohio](http://www.daytondailynews.com/business/former-power-plants-lay-off-370-workers-ohio/LGzp1BbsukKwVzawiLksVJ/)
-
-• [Amazon looking to buy abandoned Toys 'R' Us storefronts](http://www.daytondailynews.com/business/amazon-looking-buy-abandoned-toys-storefronts/4BPQ00mUiFPhHGKYbGcJAL/)
-
-• [Check out this $1 million home for sale in Clearcreek Twp.](http://www.daytondailynews.com/business/check-out-this-million-house-for-sale-clearcreek-twp/kMKXj4O6L1zjEk7uTBLpcM/)

@@ -1,7 +1,7 @@
 ---
 layout: media
 title: "How to Keep a Marriage Sexy-ish"
-categories: relationships
+categories: relationships, family
 excerpt: "How to Keep a Marriage Sexy-ish"
 link: https://www.fatherly.com/love-money/maintaining-consistent-sex-is-always-hard-in-marriage-modern-times-makes-it-harder/
 description: Some advice from a sex therapist who's helped couples for more than two decades.
