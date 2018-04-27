@@ -1,7 +1,7 @@
 ---
 layout: media
 title: "5 Facts Every Man Should Know About Vasectomies"
-categories: relationships family
+categories: relationships
 excerpt: "There's smoke, but not fire."
 link: https://www.fatherly.com/health-science/the-science-of-how-vasectomies-work/
 description: There's smoke, but not fire.
@@ -24,7 +24,7 @@ image:
 ---
 ## What Fathers Need to Know About Vasectomies
 
-**Dogs originally helped invent what would eventually become one of the safest and most effective forms of birth control.
+**Dogs originally helped invent what would eventually become one of the safest and most effective forms of birth control.**
 
 Feb 06 2018, 9:40 AM
 
