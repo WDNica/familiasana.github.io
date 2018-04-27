@@ -16,10 +16,15 @@ author:
     name: "Lauren Vinopal"
     web: https://www.fatherly.com/community/lauren_vinopal/
 publisher: Fatherly
+image:
+    teaser: vasectomy-cost_.jpg
+    feature: vasectomy-cost_.jpg
+    thumb: vasectomy-cost.jpg
+    
 ---
 ## What Fathers Need to Know About Vasectomies
 
-## Dogs originally helped invent what would eventually become one of the safest and most effective forms of birth control.
+### Dogs originally helped invent what would eventually become one of the safest and most effective forms of birth control.
 
 Feb 06 2018, 9:40 AM
 
