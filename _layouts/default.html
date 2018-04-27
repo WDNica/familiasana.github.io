@@ -58,18 +58,21 @@
 
       {{ content }}
 
-      {% include latest-posts-list.html %}
       {% include footer.html %}
     </div>
 
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
     <script src="{{ site.url }}/js/main.js"></script>
-
-    <script type="text/javascript">
-      var num = Math.ceil( Math.random() * 759 );
-      $('#page-feature-image').attr('src','{{ site.url }}/images/{{ site.image.folder }}/'+num+'.jpg');
-    </script>
-    
+    {% if post.image.teaser %}
+      <script type="text/javascript">
+        $('#page-feature-image').attr('src','{{ site.url }}/images/{{ page.categories | first }}/{{ post.image.teaser }}');
+      </script>
+    {% else %}
+      <script type="text/javascript">
+        var num = Math.ceil( Math.random() * 759 );
+        $('#page-feature-image').attr('src','{{ site.url }}/images/{{ site.image.folder }}/'+num+'.jpg');
+      </script>
+    {% endif %}
     {% if page.toc == true %}
     <script type="text/javascript">
       $('.toc').toc({
