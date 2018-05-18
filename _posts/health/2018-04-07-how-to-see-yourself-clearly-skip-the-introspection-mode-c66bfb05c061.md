@@ -7,7 +7,7 @@ comments: true
 keywords: Fitness,Workout,Health, family,kids,relationship,Marriage,finance,education
 categories: health
 link: https://medium.com/personal-growth/how-to-see-yourself-clearly-skip-the-introspection-mode-c66bfb05c061
-title: How to See Yourself Clearly: Skip the Introspection Mode
+title: "How to See Yourself Clearly: Skip the Introspection Mode"
 description: Too much self examination can kill you
 author: 
     name: Gustavo Razzetti

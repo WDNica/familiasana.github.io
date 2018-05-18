@@ -7,8 +7,8 @@ comments: true
 keywords: Fitness,Workout,Health,family,kids,relationship,Marriage,finance,education
 categories: health
 link: http://www.independent.co.uk/life-style/best-exercises-body-weight-loss-muscle-building-harvard-doctor-a8001401.html
-title: A Harvard doctor says these are the best exercises for your body
-description: If you think running a marathon is the quickest ticket to a rock-hard body, I-Min Lee, a professor of medicine at Harvard Medical School, has news for you: That classic feat isn't as good for your body as it seems. Instead of long-distance running, which can be hard on your joints and digestive system, Lee recommends five other types of workouts. They generate benefits that range from weight loss and muscle building to protecting your heart and brain and strengthening your bones.
+title: "A Harvard doctor says these are the best exercises for your body"
+description: "If you think running a marathon is the quickest ticket to a rock-hard body, I-Min Lee, a professor of medicine at Harvard Medical School, has news for you: That classic feat isn't as good for your body as it seems. Instead of long-distance running, which can be hard on your joints and digestive system, Lee recommends five other types of workouts. They generate benefits that range from weight loss and muscle building to protecting your heart and brain and strengthening your bones."
 author: 
     name: Erin Brodwin, Business Insider
 date: 2018-05-15T10:29:42.000Z

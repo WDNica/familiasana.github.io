@@ -6,7 +6,6 @@ toc: true
 comments: true
 keywords: finance, money, good-habits
 categories: finance
-
 link: http://wgntv.com/2018/04/05/9-boring-habits-that-can-make-you-rich/
 title: "9 boring habits that can make you rich"
 description: "The idea of being rich appeals to most of us. What's not to like about a world where your only money trouble is how to spend it? Plus, in a world where money is plentiful, you're free to do all kinds of exciting things most of us dream about: travel the world, eat gourmet meals, and splurge on the items that truly make you happy."
