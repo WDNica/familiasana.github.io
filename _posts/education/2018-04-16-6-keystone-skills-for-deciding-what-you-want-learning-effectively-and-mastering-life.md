@@ -4,8 +4,8 @@ link: https://medium.com/thrive-global/6-keystone-skills-for-deciding-what-you-w
 title: "Do You Have These 6 ‘Mindful’ Skills? Or Are You Distracted?"
 excerpt: "Do You Have These 6 ‘Mindful’ Skills? Or Are You Distracted?"
 description: Information is abundant. The proper application of information (i.e., wisdom and understanding) is scarce.
-keywords: family, fathers
-categories: family, finance
+keywords: family, fathers, finance, education
+categories: education
 author: 
     name: Benjamin P. Hardy
     web:

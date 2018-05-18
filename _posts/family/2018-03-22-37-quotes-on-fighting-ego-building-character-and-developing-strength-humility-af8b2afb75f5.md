@@ -1,4 +1,11 @@
 ---
+layout: media
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education
+categories: family
 link: https://medium.com/the-mission/37-quotes-on-fighting-ego-building-character-and-developing-strength-humility-af8b2afb75f5
 title: 37 Quotes On Fighting Ego, Building Character And Developing Strength & Humility
 description: Ego is one of those things that’s very hard to define, but easy to spot when you see it. Even as someone who spent years researching and…
