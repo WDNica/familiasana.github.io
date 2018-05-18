@@ -1,9 +1,17 @@
 ---
+layout: media
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,Homes,love,Marriage
+categories: relationships
 link: https://www.menshealth.com/sex-women/a19683086/dirty-dishes-ruins-relationships/
-title: Guys, This Is Simple: More Helping Out Around the House = More Sex
+title: "Guys, This Is Simple: More Helping Out Around the House = More Sex"
 description: Men, it's time to step it up.
 keywords: dirty dishes, relationships, chores, couples, report,
-author: Sarah Rense
+author: 
+    name: Sarah Rense
 date: 2018-04-04T09:00:00.000Z
 publisher: Men's Health
 stats: paragraph=8 sentences=17, words=337
