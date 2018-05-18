@@ -1,10 +1,17 @@
 ---
+layout: media
+ads: true
+share: true
+toc: true
+comments: true
+keywords: boredom,Marriage,Relationships,family,kids,relationship,Marriage,finance,education
+categories: relationships
 link: https://www.fatherly.com/love-money/relationships/how-to-avoid-the-dreaded-roommate-phase-with-your-spouse/
 title: Avoid the Dreaded "Roommate Rut" With Your Spouse
 description: Because while sweatpants rock, stagnancy doesn't.
-keywords: boredom,Marriage,Relationships
-author: Tanya Basu
-date: 2017-10-11T23:29:20.000Z
+author: 
+    name: Tanya Basu
+date: 2018-05-11T23:29:20.000Z
 publisher: Fatherly
 stats: paragraph=28 sentences=61, words=1033
 ---
@@ -59,11 +66,4 @@ It doesn't even have to be a date night, Schwartz says. "If every good moment is
 And if you're really in a roommate rut with your partner? Remember, be in the dating frame of mind. What would you do if you were dating your spouse? You'd try to do something interactive that got you two to spend time together. Go dancing, try bungee jumping, check out a museum exhibit — treat it like a _date_. Don't go to the same restaurant you've frequented for years or follow the same dinner and a movie formula that's become ho-hum. Shake it up.
 
 The key point here? Treat your spouse as though she was your girlfriend — even after the wedding, the kids, the crowded schedules. Your roommate for life won't seem as such, and you put your marriage on a path towards growth, not conflict and disintegration. As Schwartz points out, "There's a 50 percent divorce rate, but that also means there's a 50 percent marriage survival rate."
-[Share](https://www.facebook.com/sharer/sharer.php?u=https://www.fatherly.com/love-money/relationships/how-to-avoid-the-dreaded-roommate-phase-with-your-spouse/?utm_source=facebook&utm_medium=onsiteshare)
 
-Sign up for the
-[Tanya Basu](https://www.fatherly.com/community/tanya-basu/)
-
-writes for Fatherly.
-
-[boredom](https://www.fatherly.com/tag/boredom/) [Marriage](https://www.fatherly.com/tag/marriage/) [Relationships](https://www.fatherly.com/tag/relationships/)
