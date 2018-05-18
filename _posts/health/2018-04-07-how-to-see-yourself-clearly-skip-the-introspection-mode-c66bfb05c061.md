@@ -1,9 +1,16 @@
 ---
+layout: media
+ads: true
+share: true
+toc: true
+comments: true
+keywords: Fitness,Workout,Health, family,kids,relationship,Marriage,finance,education
+categories: health
 link: https://medium.com/personal-growth/how-to-see-yourself-clearly-skip-the-introspection-mode-c66bfb05c061
 title: How to See Yourself Clearly: Skip the Introspection Mode
 description: Too much self examination can kill you
-keywords: null
-author: Gustavo Razzetti
+author: 
+    name: Gustavo Razzetti
 date: 2018-04-07T00:50:28.528Z
 publisher: Medium
 stats: paragraph=78 sentences=156, words=1672
@@ -165,8 +172,3 @@ Self-awareness makes you more confident. You no longer need a lamp to make you v
 
 _Do you consider a self-aware person? Share your story._
 
-### Increase Your Self Awareness
-
-Receive my weekly "Insights for Changemakers": [Sign Up Now](https://liberationist.org/insights)
-
-Download my free ebook: [Stretch Your Mind](https://liberationist.lpages.co/stretch-your-mind-ebook-1/)

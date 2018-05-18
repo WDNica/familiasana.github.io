@@ -1,10 +1,17 @@
 ---
+layout: media
+ads: true
+share: true
+toc: true
+comments: true
+keywords: shower morning,shower night,family,kids,relationship,Marriage,finance,education
+categories: kids
 link: https://www.brit.co/shower-morning-vs-night/
 title: Science Has an Answer to the Morning vs. Night Shower Debate
 description: Shower on, friends.
-keywords: null
-author: Lesley Chen
-date: 2017-06-29T12:20:27.000Z
+author: 
+    name: Lesley Chen
+date: 2018-05-10T12:20:27.000Z
 publisher: Brit + Co Logo
 stats: paragraph=11 sentences=46, words=714
 ---

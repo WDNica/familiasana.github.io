@@ -1,9 +1,16 @@
 ---
+layout: media
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education
+categories: education
 link: https://medium.com/thrive-global/how-to-take-ownership-and-change-your-brain-identity-and-future-252ffab07523
 title: How to Increase the Volume of Your Brain and Make Optimal Decisions
 description: Perhaps the biggest myth in Western culture is that we are born with a fixed and intrinsic personality — that who we are when we’re born…
-keywords: null
-author: Benjamin P. Hardy
+author: 
+    name: Benjamin P. Hardy
 date: 2018-02-20T14:58:11.982Z
 publisher: Medium
 stats: paragraph=65 sentences=187, words=2212

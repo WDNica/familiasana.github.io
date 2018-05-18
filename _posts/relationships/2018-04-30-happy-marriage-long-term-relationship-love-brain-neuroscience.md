@@ -1,9 +1,16 @@
 ---
+layout: media
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education
+categories: relationships
 link: https://www.inc.com/minda-zetlin/happy-marriage-long-term-relationship-love-brain-neuroscience.html
 title: Want a Happy Marriage? Here's How, According to Neuroscience
 description: Brain scans of happily married couples provide clues about making long-term relationships work.
-keywords: null
-author: Minda Zetlin
+author: 
+    name: Minda Zetlin
 date: 2018-04-30T06:01:00.000Z
 publisher: Inc.com
 stats: paragraph=11 sentences=37, words=698

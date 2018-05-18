@@ -1,9 +1,16 @@
 ---
+layout: media
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education
+categories: family
 link: http://www.fashionbeans.com/article/habits-of-well-dressed-men/
 title: 15 Habits Of Well-Dressed Men
 description: We ask some of menswear's leading experts to tell us what all well-dressed men have in common, and show you how to introduce these desirable habits into your own personal style
-keywords: null
-author: Fashionbeans Editors
+author: 
+    name: Fashionbeans Editors
 date: 2018-04-20T00:00:00.000Z
 publisher: FashionBeans
 stats: paragraph=79 sentences=108, words=2084
