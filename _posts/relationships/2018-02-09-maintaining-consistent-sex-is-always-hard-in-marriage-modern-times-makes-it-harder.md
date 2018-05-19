@@ -16,6 +16,9 @@ ads: true
 share: true
 toc: true
 comments: true
+image:
+  feature: relationships/maintaining-consistent-sex-is-always-hard-in-marriage-modern-times-makes-it-harder.jpg
+
 ---
 ## Some advice from a sex therapist who's helped couples for more than two decades.
 
