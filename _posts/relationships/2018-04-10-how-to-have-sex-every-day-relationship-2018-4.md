@@ -1,9 +1,16 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: relationship
 link: http://www.businessinsider.com/how-to-have-sex-every-day-relationship-2018-4
 title: I have sex every day — here are 8 reasons why you should give it shot
 description: My partner and I have sex pretty much daily and I've never been happier.
-keywords: null
-author: Sam Gutierrez, Insider
+author: 
+    name: Sam Gutierrez, Insider
 date: 2018-04-10T00:00:00.000Z
 publisher: Business Insider
 stats: paragraph=4 sentences=10, words=251

@@ -1,9 +1,16 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: finance
 link: https://www.nbcnews.com/better/business/how-get-out-debt-build-wealth-snowball-ncna864111
 title: How to quickly pay off debt and build a 'wealth snowball'
 description: Use the same behavior that got you into debt to grow your savings.
-keywords: null
-author: null
+author: 
+    name: null
 date: 2018-04-10T12:11:55.000Z
 publisher: NBC News
 stats: paragraph=18 sentences=25, words=474

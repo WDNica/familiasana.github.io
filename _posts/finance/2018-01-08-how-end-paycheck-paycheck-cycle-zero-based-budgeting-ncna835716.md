@@ -1,9 +1,16 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: finance
 link: https://www.nbcnews.com/better/business/how-end-paycheck-paycheck-cycle-zero-based-budgeting-ncna835716
 title: A budgeting hack to end the paycheck-to-paycheck cycle
 description: With zero-based budgeting, every penny you make intentionally goes to something useful.
-keywords: null
-author: null
+author: 
+    name: null
 date: 2018-01-08T16:17:47.000Z
 publisher: NBC News
 stats: paragraph=31 sentences=31, words=696

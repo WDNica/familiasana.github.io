@@ -1,9 +1,16 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: education
 link: https://medium.com/the-mission/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 title: This Is Exactly How You Should Train Yourself To Be Smarter [Infographic]
 description: View the high resolution version of the infographic by clicking here.
-keywords: null
-author: Michael Simmons
+author: 
+    name: Michael Simmons
 date: 2017-12-19T11:46:03.134Z
 publisher: Medium
 stats: paragraph=46 sentences=64, words=1074

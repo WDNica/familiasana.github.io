@@ -1,9 +1,16 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: education
 link: https://journal.thriveglobal.com/you-are-what-you-say-yes-to-60457c4d26d3
 title: Tell Me What You Say “Yes” To, And I’ll Tell You Who You Are
 description: “The difference between successful people and very successful people is that very successful people say no to almost everything.” — Warren…
-keywords: null
-author: Benjamin P. Hardy
+author: 
+    name: Benjamin P. Hardy
 date: 2018-03-29T15:12:19.572Z
 publisher: Thrive Global
 stats: paragraph=25 sentences=68, words=719

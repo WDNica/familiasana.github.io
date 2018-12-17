@@ -1,9 +1,16 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: relationship
 link: https://medium.com/@RandyWithers/how-to-listen-to-your-spouse-like-an-expert-53cc61e0e198
 title: How To Listen To Your Spouse (Like a Boss) – Randy Withers – Medium
 description: Men are not inherently good at this. Here’s how to change that.
-keywords: null
-author: Randy Withers
+author: 
+    name: Randy Withers
 date: 2018-04-03T20:58:59.330Z
 publisher: Medium
 stats: paragraph=27 sentences=99, words=1116

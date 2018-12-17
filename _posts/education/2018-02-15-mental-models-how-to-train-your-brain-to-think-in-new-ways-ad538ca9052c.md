@@ -1,9 +1,16 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: education
 link: https://medium.com/the-mission/mental-models-how-to-train-your-brain-to-think-in-new-ways-ad538ca9052c
 title: Mental Models: How to Train Your Brain to Think in New Ways
 description: You can train your brain to think better. One of the best ways to do this is to expand the set of mental models you use to think. Let me…
-keywords: null
-author: James Clear
+author: 
+    name: James Clear
 date: 2018-02-15T12:24:09.643Z
 publisher: Medium
 stats: paragraph=34 sentences=110, words=1725

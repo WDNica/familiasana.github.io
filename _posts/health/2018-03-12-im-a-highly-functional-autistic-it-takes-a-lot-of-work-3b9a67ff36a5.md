@@ -1,9 +1,16 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: health
 link: https://medium.com/@dr_eprice/im-a-highly-functional-autistic-it-takes-a-lot-of-work-3b9a67ff36a5
 title: I’m a “highly functional” Autistic. It takes a lot of work.
 description: On engineering a life that suits my neurotype.
-keywords: null
-author: E Price
+author: 
+    name: E Price
 date: 2018-03-12T02:20:39.705Z
 publisher: Medium
 stats: paragraph=78 sentences=284, words=4421
