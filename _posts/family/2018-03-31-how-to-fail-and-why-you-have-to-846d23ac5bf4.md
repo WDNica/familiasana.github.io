@@ -1,9 +1,16 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: family
 link: https://medium.com/swlh/how-to-fail-and-why-you-have-to-846d23ac5bf4
 title: How to Fail (And Why You Have to) – The Startup – Medium
 description: Why everyone is afraid of failing
-keywords: null
-author: Florian Popescu
+author: 
+    name: Florian Popescu
 date: 2018-03-31T11:28:23.035Z
 publisher: Medium
 stats: paragraph=38 sentences=145, words=2348

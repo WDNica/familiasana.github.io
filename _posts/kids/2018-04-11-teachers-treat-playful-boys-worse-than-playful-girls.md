@@ -1,9 +1,16 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking, adhd,Behavior,Boys,Class Clowns,health and science,Playfulness
+categories: kids
 link: https://www.fatherly.com/health-science/teachers-treat-playful-boys-worse-than-playful-girls/
 title: Why Your Son's Teacher Can't Stand His Shenanigans
 description: Elementary school teachers are predominantly women—and they don't get boys.
-keywords: adhd,Behavior,Boys,Class Clowns,health and science,Playfulness
-author: Lauren Vinopal
+author: 
+    name: Lauren Vinopal
 date: 2018-04-11T13:59:07.000Z
 publisher: Fatherly
 stats: paragraph=7 sentences=21, words=448

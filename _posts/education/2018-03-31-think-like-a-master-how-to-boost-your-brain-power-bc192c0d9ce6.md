@@ -1,9 +1,16 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: education
 link: https://medium.com/swlh/think-like-a-master-how-to-boost-your-brain-power-bc192c0d9ce6
-title: How to Boost Your Brain Power: Think Like a Master – The Startup – Medium
+title: How to Boost Your Brain Power: Think Like a Master – The Startup
 description: The secret to use your whole brain
-keywords: null
-author: Gustavo Razzetti
+author: 
+    name: Gustavo Razzetti
 date: 2018-03-31T23:06:31.923Z
 publisher: Medium
 stats: paragraph=99 sentences=163, words=2019

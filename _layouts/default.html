@@ -65,7 +65,7 @@
     <script src="{{ site.url }}/js/main.js"></script>
     {% if page.image.teaser %}
       <script type="text/javascript">
-        $('#page-feature-image').attr('src','{{ site.url }}/images/{{ page.categories | first }}/{{ page.image.teaser }}');
+        $('#page-feature-image').attr('src','{{ site.url }}/images/{{ page.categories | first }}/{{ page.image.feature }}');
       </script>
     {% else %}
       <script type="text/javascript">

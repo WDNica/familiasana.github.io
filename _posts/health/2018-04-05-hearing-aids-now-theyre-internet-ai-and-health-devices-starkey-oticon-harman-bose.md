@@ -1,9 +1,16 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: health
 link: https://www.cnet.com/news/hearing-aids-now-theyre-internet-ai-and-health-devices-starkey-oticon-harman-bose/
 title: Hearing aids are about to get super smart and motion-savvy
 description: Resources going into augmented hearing and “hearable” devices means smarter hearing aids with motion sensors, AI and more.
-keywords: null
-author: Shara Tibken,
+author: 
+    name: Shara Tibken,
 date: 2018-04-05T18:33:00.000Z
 publisher: CNET
 stats: paragraph=49 sentences=84, words=1621

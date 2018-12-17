@@ -17,9 +17,9 @@ author:
     web: https://www.fatherly.com/community/lauren_vinopal/
 publisher: Fatherly
 image:
-    teaser: vasectomy-cost_.jpg
+    teaser: relationships/vasectomy-cost_.jpg
     feature: vasectomy-cost_.jpg
-    thumb: vasectomy-cost.jpg
+    thumb: relationships/vasectomy-cost.jpg
     
 ---
 ## What Fathers Need to Know About Vasectomies

@@ -1,10 +1,17 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: kids
 link: https://medium.com/s/story/todays-problem-with-masculinity-isn-t-what-you-think-b43e80edcf60
 title: Today’s Problem With Masculinity Isn’t What You Think
 description: I don’t have the group picture from the day my dad visited my fraternity house at Oklahoma State University. It was awkward compared to the “Mom’s Day” photo we would snap a few months later. Not…
-keywords: null
-author: Benjamin Sledge
-date: null
+author: 
+    name: Benjamin Sledge
+date: 2018-06-01
 publisher: Medium
 stats: paragraph=58 sentences=166, words=2684
 ---

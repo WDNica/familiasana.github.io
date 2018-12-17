@@ -1,10 +1,17 @@
 ---
+layout: article
+ads: true
+share: true
+toc: true
+comments: true
+keywords: family,kids,relationship,Marriage,finance,education,networking
+categories: finance
 link: https://www.nbcnews.com/better/business/how-create-emergency-fund-just-90-days-ncna803596
 title: How to sock away $1,000 in 90 days
 description: Good news: It will only cost you $11 a day.
-keywords: null
-author: null
-date: 2017-09-21T21:41:53.000Z
+author: 
+    name: null
+date: T21:41:53.000Z
 publisher: NBC News
 stats: paragraph=30 sentences=63, words=1072
 ---
